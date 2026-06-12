@@ -29,3 +29,9 @@ Installed copies of Tenan check for new releases automatically. When an update i
 All releases are signed with a Tauri keypair. The installer signature is verified automatically by the built-in updater before any update is applied.
 
 Windows SmartScreen may show an "unrecognized app" warning on first install — this is expected for apps without an Authenticode certificate. Click **More info → Run anyway** to proceed.
+
+---
+
+## Licensing
+
+Tenan is proprietary software. To inquire about licensing, please email [keaton.brewster@gmail.com](mailto:keaton.brewster@gmail.com).
