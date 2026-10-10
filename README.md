@@ -61,8 +61,10 @@ Windows SmartScreen may show an "unrecognized app" warning on first install — 
 
 ---
 
-## Licensing
+## Terms, privacy and licensing
 
+- [Terms of Use](TERMS.md)
+- [Privacy Policy](PRIVACY.md)
 - [License Agreement](LICENSE) — Tenan is proprietary software, licensed by Millwright.
 
 Licensing questions: [keaton.brewster@millwright.solutions](mailto:keaton.brewster@millwright.solutions).

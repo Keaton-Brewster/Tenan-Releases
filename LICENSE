@@ -19,11 +19,15 @@ retains all right, title, and interest in and to the Software.
 1. GRANT OF LICENSE
 --------------------------------------------------------------------------------
 
-Subject to Your continuous compliance with this Agreement and payment of any
-applicable fees, Licensor grants You a limited, personal, non-exclusive,
-non-transferable, non-sublicensable, revocable license to install and use the
-Software in object-code form, on devices owned or controlled by You, solely for
-Your own internal business purposes.
+Subject to Your continuous compliance with this Agreement and the Tenan Terms
+of Use, and payment of any applicable fees, Licensor grants You a limited,
+non-exclusive, non-transferable, non-sublicensable, revocable license to
+install and use the Software in object-code form, on devices owned or
+controlled by You, for Your own business purposes, including providing
+professional services to Your own clients.
+
+The plan You hold under the Tenan Terms of Use (for example, Free or Firm)
+determines the features, number of users, and support You are entitled to.
 
 No other rights are granted. All rights not expressly granted in this Agreement
 are reserved by Licensor.
@@ -54,10 +58,13 @@ You shall NOT, and shall not permit or assist any third party to:
       technical protection or enforcement mechanism in the Software, or use the
       Software without a valid license key or entitlement issued by Licensor.
 
-  (e) OPERATE AS A SERVICE. Use the Software to provide any service bureau,
-      time-sharing, managed-service, hosting, outsourcing, or software-as-a-
-      service offering to any third party, or otherwise permit any third party
-      to access or benefit from the functionality of the Software.
+  (e) OPERATE AS A SERVICE. Offer the Software itself, or access to it, to
+      any third party as a hosted, service-bureau, time-sharing, or
+      software-as-a-service offering, or permit Your clients or any other
+      third party to operate Your copy of the Software. Using the Software
+      Yourself to deliver consulting, implementation, support, or managed
+      services to Your own clients is permitted and does not violate this
+      subsection.
 
   (f) REMOVE NOTICES. Remove, obscure, or alter any copyright, trademark,
       license, proprietary, or attribution notice in or displayed by the
@@ -218,10 +225,11 @@ their notices is available from Licensor on request.
       modified to the minimum extent necessary to make it enforceable, and the
       remaining provisions remain in full force.
 
-  (f) ENTIRE AGREEMENT. This Agreement, together with any written order form or
-      subscription terms executed by the parties, is the entire agreement
-      between the parties regarding the Software and supersedes all prior
-      proposals and communications.
+  (f) ENTIRE AGREEMENT. This Agreement, together with the Tenan Terms of Use
+      and any written order form or subscription terms executed by the
+      parties, is the entire agreement between the parties regarding the
+      Software and supersedes all prior proposals and communications. If this
+      Agreement and the Terms of Use conflict, this Agreement governs.
 
   (g) MODIFICATION OF TERMS. Licensor may issue updated terms with new versions
       of the Software; continued use of a new version constitutes acceptance of
@@ -230,7 +238,7 @@ their notices is available from Licensor on request.
 --------------------------------------------------------------------------------
 
 For licensing inquiries, permissions beyond the scope of this Agreement, or
-source-code licensing, contact: keaton@millwright.solutions
+source-code licensing, contact: keaton.brewster@millwright.solutions
 
 Tenan is a trademark of Millwright. No trademark rights are granted by this
 Agreement.
