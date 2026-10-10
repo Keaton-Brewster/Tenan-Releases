@@ -1,0 +1,38 @@
+name: Bug report
+description: Something in Tenan isn't working as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. On the Free plan, bug reports are handled on a best-effort basis.
+
+        **Please don't paste client data here.** This repository is public, so leave out tenant names, environment URLs, record contents, tokens and screenshots that show any of them.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you saw, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The steps that lead to the problem, as precisely as you can.
+      placeholder: |
+        1. Open a client profile
+        2. Go to …
+        3. …
+  - type: input
+    id: version
+    attributes:
+      label: Tenan version
+      description: Filled in automatically when you use Report a bug in the app.
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      description: Filled in automatically when you use Report a bug in the app.
