@@ -8,7 +8,7 @@ This repository hosts compiled releases of **Tenan**, a local desktop app for ma
 
 ## Download
 
-Go to the [**Releases**](https://github.com/Keaton-Brewster/Tenan-Releases/releases) tab and download the latest `Tenan_x.x.x_x64-setup.exe`.
+Go to the [**Releases**](https://github.com/Keaton-Brewster/Tenan-Releases/releases) tab and download the latest `Tenan_x.x.x_x64-setup.exe`. New to Tenan? Start with [GETTING-STARTED.md](GETTING-STARTED.md).
 
 ## Auto-updates
 
@@ -38,10 +38,12 @@ Installed copies of Tenan check for new releases automatically. When an update i
 **Firm** — for consultancies, priced per active person, with unlimited client tenants. Everything in Free, plus:
 - organization-wide Reeve settings: a shared Azure OpenAI deployment, a chat-history policy, and who can use Reeve
 - client access controls
+- the Portfolio: every client and environment on one screen, worst first
 - Remote Reeve, from your phone
+- Reeve audit log export, per client and date range
 - white-glove support
 
-More Firm features are coming: a portfolio view across every client, scheduled health checks and alerts, client health reports, Reeve audit export, and a shared team library.
+More Firm features are coming: scheduled health checks and alerts, client health reports, and a shared team library.
 
 Interested in Firm? Email [keaton@millwright.solutions](mailto:keaton@millwright.solutions?subject=Tenan%20Firm%20plan).
 
@@ -49,7 +51,7 @@ Interested in Firm? Email [keaton@millwright.solutions](mailto:keaton@millwright
 
 ## Support
 
-See [SUPPORT.md](SUPPORT.md). In short: on Free, [open a bug report](https://github.com/Keaton-Brewster/Tenan-Releases/issues/new?template=bug_report.yml) (or use **Settings → Plan & Support → Report a bug** in the app), handled on a best-effort basis. This repository is public, so **never include client data in an issue.**
+See [SUPPORT.md](SUPPORT.md). In short: on Free, [open a bug report](https://github.com/Keaton-Brewster/Tenan-Releases/issues/new?template=bug_report.yml) (or use **Settings → About → Report a bug** in the app), handled on a best-effort basis. This repository is public, so **never include client data in an issue.**
 
 ---
 

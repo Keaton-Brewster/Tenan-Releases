@@ -3,7 +3,7 @@
 ## On the Free plan
 
 **Report bugs as GitHub issues** on this repository:
-- In the app: **Settings → Plan & Support → Report a bug** opens a report with your Tenan version and operating system already filled in.
+- In the app: **Settings → About → Report a bug** opens a report with your Tenan version and operating system already filled in.
 - Or [open a bug report here](https://github.com/Keaton-Brewster/Tenan-Releases/issues/new?template=bug_report.yml).
 
 Free support is **best effort**: reports are read and fixed as time allows, with no response time and no guarantee of a fix. Feature requests are welcome as issues too.
