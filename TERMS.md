@@ -40,7 +40,7 @@ Free includes Tenan's core features. It does not include the Firm features liste
 
 ### Firm
 
-**Firm** is a paid subscription for organizations, priced per managed client tenant. It includes everything in Free, plus:
+**Firm** is a paid subscription for organizations, priced per active person: each member of the organization who uses Tenan during the billing month. It includes everything in Free, plus:
 - organization-wide Reeve settings
 - client access controls
 - Remote Reeve
@@ -137,4 +137,4 @@ You can stop using Tenan at any time, and ask us to delete your Tenan account (s
 - **Changes.** We may update these terms. We'll give reasonable notice of material changes, for example in the app or on the Tenan-Releases repository. Continued use after a change takes effect means you accept the updated terms.
 - **Severability.** If any provision is held unenforceable, the rest stay in effect.
 - **Governing law.** These terms are governed by the laws of the State of Missouri, United States, without regard to its conflict-of-laws rules. The exclusive venue for any dispute is the state and federal courts located in Jackson County, Missouri.
-- **Contact:** keaton.brewster@millwright.solutions
+- **Contact:** keaton@millwright.solutions

@@ -35,7 +35,7 @@ Installed copies of Tenan check for new releases automatically. When an update i
 - Reeve, with your own Azure OpenAI deployment
 - the editor, terminal and source control
 
-**Firm** — for consultancies, priced per managed client tenant, with unlimited users. Everything in Free, plus:
+**Firm** — for consultancies, priced per active person, with unlimited client tenants. Everything in Free, plus:
 - organization-wide Reeve settings: a shared Azure OpenAI deployment, a chat-history policy, and who can use Reeve
 - client access controls
 - Remote Reeve, from your phone
@@ -43,7 +43,7 @@ Installed copies of Tenan check for new releases automatically. When an update i
 
 More Firm features are coming: a portfolio view across every client, scheduled health checks and alerts, client health reports, Reeve audit export, and a shared team library.
 
-Interested in Firm? Email [keaton.brewster@millwright.solutions](mailto:keaton.brewster@millwright.solutions?subject=Tenan%20Firm%20plan).
+Interested in Firm? Email [keaton@millwright.solutions](mailto:keaton@millwright.solutions?subject=Tenan%20Firm%20plan).
 
 ---
 
@@ -67,4 +67,4 @@ Windows SmartScreen may show an "unrecognized app" warning on first install — 
 - [Privacy Policy](PRIVACY.md)
 - [License Agreement](LICENSE) — Tenan is proprietary software, licensed by Millwright.
 
-Licensing questions: [keaton.brewster@millwright.solutions](mailto:keaton.brewster@millwright.solutions).
+Licensing questions: [keaton@millwright.solutions](mailto:keaton@millwright.solutions).

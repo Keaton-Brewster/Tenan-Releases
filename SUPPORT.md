@@ -10,7 +10,7 @@ Free support is **best effort**: reports are read and fixed as time allows, with
 
 ## On the Firm plan
 
-Firm includes white-glove support: onboarding, a direct line, and priority fixes. Contact [keaton.brewster@millwright.solutions](mailto:keaton.brewster@millwright.solutions?subject=Tenan%20support).
+Firm includes white-glove support: onboarding, a direct line, and priority fixes. Contact [keaton@millwright.solutions](mailto:keaton@millwright.solutions?subject=Tenan%20support).
 
 ## Never post client data
 
@@ -18,4 +18,4 @@ This repository is **public**. Leave out tenant names, environment URLs, record 
 
 ## Security issues
 
-Please don't report security vulnerabilities in a public issue. Email [keaton.brewster@millwright.solutions](mailto:keaton.brewster@millwright.solutions?subject=Tenan%20security) instead.
+Please don't report security vulnerabilities in a public issue. Email [keaton@millwright.solutions](mailto:keaton@millwright.solutions?subject=Tenan%20security) instead.

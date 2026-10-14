@@ -107,4 +107,4 @@ Tenan is a professional tool and isn't intended for anyone under 18.
 
 We may update this policy. We'll give reasonable notice of material changes, for example in the app or on the Tenan-Releases repository.
 
-Questions or requests: **keaton.brewster@millwright.solutions**
+Questions or requests: **keaton@millwright.solutions**
