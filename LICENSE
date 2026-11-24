@@ -1,10 +1,11 @@
 TENAN PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2026 Millwright. All rights reserved.
+Copyright (c) 2026 Millwright LLC. All rights reserved.
 
 IMPORTANT — READ CAREFULLY. This License Agreement ("Agreement") is a legal
 agreement between you (either an individual or a single entity, "You") and
-Millwright ("Licensor") for the Tenan software, including all executables,
+Millwright LLC, a Missouri limited liability company ("Licensor"), for the
+Tenan software, including all executables,
 source code, data files, documentation, and associated materials
 (collectively, the "Software").
 
@@ -151,9 +152,16 @@ You acknowledge and agree that:
       unlicensed use, You shall pay the shortfall plus the cost of the audit.
 
   (g) INDEMNITY. You shall defend, indemnify, and hold harmless Licensor and
-      its officers, employees, and agents from and against any claim, loss,
-      liability, or expense arising out of Your breach of this Agreement or
-      Your use of the Software.
+      its members, managers, officers, employees, and agents from and against
+      any claim, demand, loss, liability, damage, fine, or expense (including
+      reasonable attorneys' fees) arising out of or related to: (i) Your
+      breach of this Agreement; (ii) Your use of the Software, including any
+      action taken by its AI features while You use them; or (iii) any claim
+      by a third party, including Your clients, Your employer, and the owners
+      or users of any tenant, environment, or system You access with the
+      Software, that relates to Your use of the Software or to data or
+      configuration accessed, created, modified, or deleted through it. This
+      indemnity applies whether or not You are in breach of this Agreement.
 
 --------------------------------------------------------------------------------
 6. NO WARRANTY
@@ -240,5 +248,5 @@ their notices is available from Licensor on request.
 For licensing inquiries, permissions beyond the scope of this Agreement, or
 source-code licensing, contact: keaton@millwright.solutions
 
-Tenan is a trademark of Millwright. No trademark rights are granted by this
+Tenan is a trademark of Millwright LLC. No trademark rights are granted by this
 Agreement.

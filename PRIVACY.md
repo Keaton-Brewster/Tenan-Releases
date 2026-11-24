@@ -1,7 +1,7 @@
 # Tenan — Privacy Policy
 
 **Effective date:** _[set on publication]_
-**Provided by:** Millwright, Jackson County, Missouri, United States ("Millwright", "we", "us")
+**Provided by:** Millwright LLC, a Missouri limited liability company, Jackson County, Missouri, United States ("Millwright", "we", "us")
 
 This policy explains what information Tenan collects, why, and who can see it. It covers the Tenan desktop application and the **Tenan account service** it signs in to. Tenan is built to keep your clients' data on your own machine, so most of what Tenan handles never reaches us at all.
 
@@ -30,6 +30,7 @@ When you sign in, Tenan contacts the account service we run to confirm your acce
 - your Microsoft account's object ID and Entra tenant ID
 - whether your access is allowed or blocked
 - when your account was created and when you last used Tenan
+- a record of each time you accepted the License Agreement and Terms of Use: the version, when you accepted it, and the version of Tenan you were using
 
 **About your organization** (everyone signing in from the same Entra tenant)
 - the tenant ID, a name for the organization, and its plan

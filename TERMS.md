@@ -1,7 +1,7 @@
 # Tenan — Terms of Use
 
-**Effective date:** _[set on publication]_
-**Provided by:** Millwright, Jackson County, Missouri, United States ("Millwright", "we", "us")
+**Effective date:** 23 November 2026 (version 2026-11-23)
+**Provided by:** Millwright LLC, a Missouri limited liability company, Jackson County, Missouri, United States ("Millwright", "we", "us")
 **Applies to:** the Tenan desktop application ("Tenan", "the application", "the software"), the Tenan account service it signs in to, and anyone who installs or uses them ("you").
 
 These terms sit alongside the **Tenan Proprietary Software License Agreement** (the `LICENSE` file distributed with Tenan). The License Agreement covers what you may do with the software itself; these terms cover the plans, your account, the AI features and support. If the two conflict, the License Agreement governs. How we handle personal information is described in the **Tenan Privacy Policy**.
@@ -14,7 +14,9 @@ These terms sit alongside the **Tenan Proprietary Software License Agreement** (
 
 ## 1. Acceptance
 
-By installing, signing in to or using Tenan, you agree to these terms. If you use Tenan on behalf of an organization, you accept them on that organization's behalf and confirm you have authority to do so. **If you do not agree, do not install or use Tenan.**
+Before you first use Tenan, and again whenever these terms or the License Agreement change materially, Tenan shows you both documents and asks you to tick **"I agree"**. By ticking it, or by installing, signing in to or using Tenan, you agree to these terms and to the License Agreement. If you use Tenan on behalf of an organization, you accept them on that organization's behalf and confirm you have authority to do so. **If you do not agree, do not install or use Tenan.**
+
+We keep a record of each acceptance: your account, the version you accepted, when you accepted it, and the version of Tenan you were using.
 
 ---
 
@@ -62,6 +64,8 @@ We may change what each plan includes, or the Free limits, from time to time. We
 ## 4. Using Tenan for client work
 
 You may use Tenan to deliver consulting, implementation, support or managed services to **your own clients**, against tenants and environments you are authorized to access. You may not offer Tenan itself to anyone else as a hosted or shared service, or let your clients operate your copy of it. Section 2 of the License Agreement sets out the full restrictions.
+
+You are responsible to your clients, and to anyone else whose tenants or systems you access with Tenan, for the work you do with it, including anything its AI features do while you use them. **Your clients are not parties to these terms, and Millwright has no obligations to them.** If one of them, or anyone else, makes a claim against Millwright that relates to your use of Tenan, you agree to defend and indemnify Millwright as set out in Section 5(g) of the License Agreement.
 
 ---
 
@@ -134,7 +138,7 @@ You can stop using Tenan at any time, and ask us to delete your Tenan account (s
 
 ## 13. Changes, governing law and contact
 
-- **Changes.** We may update these terms. We'll give reasonable notice of material changes, for example in the app or on the Tenan-Releases repository. Continued use after a change takes effect means you accept the updated terms.
+- **Changes.** We may update these terms. We'll give reasonable notice of material changes, for example in the app or on the Tenan-Releases repository. For a material change, Tenan also asks you to accept the updated terms in the app before you continue. Continued use after a change takes effect means you accept the updated terms.
 - **Severability.** If any provision is held unenforceable, the rest stay in effect.
 - **Governing law.** These terms are governed by the laws of the State of Missouri, United States, without regard to its conflict-of-laws rules. The exclusive venue for any dispute is the state and federal courts located in Jackson County, Missouri.
 - **Contact:** keaton@millwright.solutions
